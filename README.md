@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @davizanna
-- 👀 I’m interested in Dj
-- 🌱 I’m currently learning music production
-- 💞️ I’m looking to collaborate on a track
-- 📫 How to reach me --> prodbyzanna@gmail.com or ig: dj_zanna
+- 👋 Hi, I’m @davidezaninello
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning how to create AI Agents
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me --> davidezaninello118@gmail.com or ig: davidezaninello_
 
 <!---
 davizanna/davizanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
